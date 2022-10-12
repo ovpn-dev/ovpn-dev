@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ovpn-dev
-- 👀 I’m interested in alot of things. For the mean time, web development and data science, Gis too
+- 👀 I’m interested in alot of things. For the mean time, web development and GIS
 - 🌱 I’m currently learning Web dev.
-- 💞️ I’m looking to collaborate on an projects and helps me learn better and grow.
+- 💞️ I’m looking to collaborate on an projects that helps me learn better and grow.
 - 📫 How to reach me , on here and twitter: _ovpn
 
 <!---
